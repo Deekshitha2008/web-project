@@ -37,3 +37,9 @@ body{
  padding: 10px;
  margin-bottom: 10px;
 }
+.card button:hover {
+    background-color: antiquewhite;
+    color: black;
+    cursor: pointer;
+    transform: scale(1.05);
+}
